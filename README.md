@@ -1,7 +1,7 @@
 # BLUORNG – Exploring Indian Premium Streetwear
 
 ## About BLUORNG
-![Uploading image.png…]()
+
 
 
 [BLUORNG](https://bluorng.com/) is an Indian fashion brand associated with contemporary premium streetwear.
